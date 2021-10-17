@@ -39,3 +39,4 @@ New project: ng new "Project Name"
 317 - Data Bindding - *ngFor: Vòng lặp trong html
 
 318 - Angular 9 - Two-Way Data Binding ngModel. Liên kết dữ liệu 2 chiều
+391
